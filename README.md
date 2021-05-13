@@ -3,6 +3,5 @@
 # Project Description
 
 # Screenshot
-<img src="Assest/images/Weather Dashboard.png">
-
+![](https://github.com/krrodriguez26/weatherdash/blob/main/Assets/images/Weather%20Dashboard.png)
 # Deployed Link
